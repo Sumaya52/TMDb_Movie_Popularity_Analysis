@@ -20,3 +20,6 @@ The following results have been found:
 2. 66% of the top movies were published in the years 2010-2015.
 3. The 5 top popular genres are Action, Adeventure, Science Fiction,Thriller and Fantasy.
 4. There is not clear correlation between the movie popularity and revenue.
+
+## Medium Blog Post
+The project results have been communicated through medium blog post found in [this link](https://medium.com/@sumaya52.ksa/taking-a-look-at-movies-popularity-in-the-tmdb-movie-dataset-f5205ac26a34).
